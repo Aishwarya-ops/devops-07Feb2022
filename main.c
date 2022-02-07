@@ -5,10 +5,15 @@ Initial Function()
   //Sample Code
 }
 
-Initial Security()
+security patch()
 {
- //Sample Code
+ //security patch added
 }
+feature1()
+{
+feature1 added
+}
+
 feature2()
 {
 //feature2 added
